@@ -1,0 +1,2 @@
+Hello, welcome to the git module
+This file has been added to the staging index and now being tracked by git
