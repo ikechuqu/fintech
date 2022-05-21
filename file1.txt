@@ -1,3 +1,4 @@
 Hello, welcome to the git module
 This file has been added to the staging index and now being tracked by git
 Now the file has being commited to git
+Making a change to this file to demonstrate bypassing the Staging Index in next commit.
