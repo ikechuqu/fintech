@@ -4,3 +4,4 @@ Now the file has being commited to gitted. #git diff --color-words will use a co
 
 Making a change to this file to demonstrate bypassing the Staging Index in next commit and now displaying the differences between the file committed to git and this new text I'm adding to the file in my working directory.
 I am also adding this line to test for me to demonstrate what "git diff" command does in displaying changes between files in local repo and working directory before a new commit is done to reflect that change.
+I am addind a new line to the file here now......
